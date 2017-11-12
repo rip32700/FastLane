@@ -1,0 +1,15 @@
+PODS:
+  - AlertOnboarding (2.0)
+  - PopupDialog (0.6.0)
+
+DEPENDENCIES:
+  - AlertOnboarding
+  - PopupDialog
+
+SPEC CHECKSUMS:
+  AlertOnboarding: 2e6804e67894894807c5d24bcfcd7905897e6f08
+  PopupDialog: 687af43af0f7b89948cd411ac701865f931bd6dc
+
+PODFILE CHECKSUM: 4069aecb75c8b988ec66bded995b5c14d0e24588
+
+COCOAPODS: 1.4.0.beta.2

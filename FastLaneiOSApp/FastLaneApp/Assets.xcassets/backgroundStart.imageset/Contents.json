@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "wooden-board-empty-table-top-on-of-blurred-background-perspective-brown-wood-table-over-blur-in-coffee-shop-background-can-be-used-mock-up-for-montage-products-display-or-design-key-visual-layout_1253-952.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
