@@ -2,4 +2,4 @@
 
 ## Install
 
-* Install requirements: $ pod install
+* Install requirements: ```$ pod install```
