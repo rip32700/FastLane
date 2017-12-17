@@ -6,7 +6,7 @@ The purpose of the app is to eliminate long check out times at stores. The idea 
 
 ## Flow
 
-* The customer enters a store and scans a barcode that is associated with the store. Thereby, the connection to that specific store is established.
+* The customer enters a store and scans a QR Code of a shopping cart that is associated with the store. Thereby, the connection to that specific store is established.
 * Then, barcodes of products can be stored and thereby added to the shopping cart.
 * When the customer is ready, he can pay all his articles with the app.
 * After paying, a QR code is generated that could be used to exit through some sort of exit gate that scans barcodes and checks the payment status.
