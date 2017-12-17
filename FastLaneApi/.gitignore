@@ -1,0 +1,15 @@
+# Ignore project files
+.idea
+
+# Ignore Mac OS X files
+.DS_Store
+
+# Ignore build dirs
+node_modules
+dist
+
+# Ignore logs
+*.log
+
+# Ignore JS files
+*.js
